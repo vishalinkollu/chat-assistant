@@ -262,4 +262,4 @@ This project demonstrates:
 * Robust error handling
 * Polished user experience
 
-It intentionally goes beyond the assignment requirements to showcase production‑quality thinking.
+
